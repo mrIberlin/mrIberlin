@@ -1,16 +1,16 @@
-## Hi there 👋
-git init mrIberlin
-cd mrIberlin
-echo "# 👋 ¡Hola, soy mrIberlin! ..." > README.md  
+
 
 About Me
 
+Spa/Eng 
 
-🎓 Third semester student in Systems Engineering at Universidad Autónoma de Occidente.
+Col/Latino-american 
+
+🎓 Currently a third semester student of Systems Engineering at the Universidad Autónoma de Occidente.
 
 ---
 
-## 💻 Habilidades / Skills
+## 💻basic skills
 
 - Python
 - HTML
@@ -20,14 +20,11 @@ About Me
 
 ---
 
-## 🚀 ¿Qué hago aquí? / What am I doing here?
-
-Actualmente me enfoco en aprender y mejorar mis habilidades en desarrollo de software y programación web.  
+What am I doing here? 
 I'm currently focused on learning and improving my skills in software development and web programming.
 
----
 
-## 📫 Contacto / Contact
+Contact
 
 ¿Quieres conectar o colaborar? ¡No dudes en enviarme un mensaje por GitHub!  
 Want to connect or collaborate? Feel free to reach out via GitHub!
